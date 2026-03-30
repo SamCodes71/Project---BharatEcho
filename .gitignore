@@ -1,12 +1,17 @@
 # Credentials — never commit
 .env
 backend/.env
+.idea
+*.db
+*.sqlite3
+*.zip
 
 # Generated audio files
 backend/static/*.mp3
 backend/temp/*.wav
 backend/temp/*.mp3
 backend/database/*.db
+
 
 # Python cache
 __pycache__/
