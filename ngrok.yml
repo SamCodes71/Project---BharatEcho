@@ -1,0 +1,9 @@
+version: "3"
+agent:
+  authtoken: 3B9lzkhZ6zGCFBlMaZ3NjaKbyVh_5kojd2gnDGEdx9XZFN18Z
+
+tunnels:
+  backend:
+    proto: http
+    addr: 8000
+    domain: socorro-choosable-billie.ngrok-free.dev

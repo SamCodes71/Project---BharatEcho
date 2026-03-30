@@ -1,0 +1,13 @@
+pytorch-lightning
+openai-whisper
+ffmpeg
+gtts
+fastapi
+uvicorn
+requests
+python-multipart
+twilio
+gtts
+TTS
+openai-whisper
+langdetect
