@@ -355,10 +355,4 @@ All tables live in `bharatecho.db`.
 
 ---
 
-## License
-
-MIT — see `LICENSE` for details.
-
----
-
 *Built with ❤️ for Digital India*
