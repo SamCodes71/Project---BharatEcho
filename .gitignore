@@ -6,6 +6,7 @@ backend/.env
 backend/static/*.mp3
 backend/temp/*.wav
 backend/temp/*.mp3
+backend/database/*.db
 
 # Python cache
 __pycache__/
